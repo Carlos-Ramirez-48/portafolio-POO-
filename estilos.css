@@ -1,0 +1,33 @@
+#barraSuperior{
+margin-left: 0px;
+
+}
+
+#barraSuperior .navbar-brand{
+    margin-top: -80px;
+    margin-bottom: -80px;
+    margin-left: -5%;
+    display: flex;
+    justify-content: left;
+
+}
+
+.navbar-con-fondo {
+    background-image: url('img/2.jpeg');
+    background-position: center; 
+  }
+
+  #proyectosRealizados {
+    text-align: center; 
+    font-size: 48px; 
+    margin-top: 20px; 
+    border: 2px solid #3498db; 
+    padding: 10px; 
+    color: #74a7c9; 
+    background-color: rgb(94, 90, 90);
+  }
+
+  #baseProyectosRealizados{
+    background-image: url('img/1.jpg');
+    background-position: center; 
+  }
